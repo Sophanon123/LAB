@@ -1,0 +1,1 @@
+curl https://get.netdata.cloud/kickstart.sh > /tmp/netdata-kickstart.sh && sh /tmp/netdata-kickstart.sh --nightly-channel --claim-token rQtgRK_WYlOsu4SKZvUdPMc1Dd7wZR8R0PdnEJEYmtt6gapmSJTNzMv-D5vZJh23bhIj1p2sZBGtsyQEKt9EEaCFhvSPBMziYnoTEC-i_OSFQLqGLchKcYqL8vKc-8v1OAC5jCw --claim-rooms e6dbfa2f-c1fc-4924-b3d8-88727e83ebd1 --claim-url https://app.netdata.cloud
